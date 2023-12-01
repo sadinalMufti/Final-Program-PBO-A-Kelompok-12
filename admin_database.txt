@@ -1,0 +1,3 @@
+bintang,123
+dinal,123
+alvia,123

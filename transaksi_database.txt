@@ -1,0 +1,13 @@
+
++========== DETAIL TRANSAKSI ==========+
+ Tanggal Transaksi: 01-12-2023 18:17:32
+ kacamata sebanyak 9 item
+ Total Harga adalah 360000
++--------------------------------------+
+
++========== DETAIL TRANSAKSI ==========+
+ Tanggal Transaksi: 01-12-2023 18:19:04
+ celana sebanyak 6 item
+ Total Harga adalah 1800000
++--------------------------------------+
+
